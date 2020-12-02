@@ -1,2 +1,3 @@
 # simple-html-email-template
- This is a simple html email template, that allow you to send email with good formats
+
+ This is a very **simple html email template** made by _appsdabanda_, you may use and customize it. It helps you to send quick emails with a good format
