@@ -3,7 +3,7 @@
  This is a very **simple html email template** made by _appsdabanda_, may be used and customized. It helps you to send simple emails in a good format.
 
  ## How to customize 
-
+  
   *1. Logo*
 
   *To change the logo replace the attribute **scr** of the image html tag inside the first table by a remote link of your logo. If you don't need a logo delete this section.*
