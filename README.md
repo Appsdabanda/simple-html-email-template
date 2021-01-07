@@ -6,7 +6,7 @@
 
   *1. Logo*
 
-  *To change the logo update the attribute **scr** of the image html tag inside the first table. Use a remote link*
+  *To change the logo replace the attribute **scr** of the image html tag inside the first table by a remote link of your logo. If you don't need a logo delete this section.*
   
   ```HTML
     <img src="https://www.exemple.com/src/image.jpg" style="Margin: 6px 0px 0px 6px;" alt="logo" width="90" height="50">
@@ -14,7 +14,7 @@
  
   *2. Text*  
 
-  *To update the text replace the content inside the second table. Use **p** html tag to create different paragraphs.* 
+  *To update the text replace the content inside the second table by the content you want to send. Use **p** html tag to create different paragraphs.* 
   
   ```HTML
     <table width="100%" style="border-spacing: 0;">
